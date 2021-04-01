@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="title">Заголовок заметки:</string>
+    <string name="description">Описание:</string>
+    <string name="day_of_week">День недели:</string>
+
+    <string-array name="DayOfWeek">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+</resources>
